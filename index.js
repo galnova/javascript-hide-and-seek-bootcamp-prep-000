@@ -1,4 +1,4 @@
-function getFirstSelector() {
+function getFirstSelector(div) {
   return document.querySelector('main#app');
 }
 
