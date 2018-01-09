@@ -1,4 +1,4 @@
-function getFirstSelector(ul) {
+function getFirstSelector() {
   return document.querySelector('ul#nested');
 }
 
