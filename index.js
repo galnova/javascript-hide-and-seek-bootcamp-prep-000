@@ -5,6 +5,6 @@ function getFirstSelector() {
 
 function nestedTarget() {
   const nesTed = document.getElementById("nested")[0];
-  const div = nested.children[0];
+  const div = nested.target;
   return nesTed;
 }
