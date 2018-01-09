@@ -1,5 +1,5 @@
 function getFirstSelector(ul) {
-  return document.querySelector('ul');
+  return document.querySelector('ul#nested');
 }
 
 function nestedTarget() {
