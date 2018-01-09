@@ -4,7 +4,11 @@ function getFirstSelector() {
 }
 
 function nestedTarget() {
-  const nesTed = document.getElementById("nested")[0];
+  const nesTed = document.getElementById('nested')[0];
   const div = nested.children[0];
   return nesTed;
+}
+
+function increaseRankBy(n) {
+  const raise = document.getElementsByClassName('ranked-list');
 }
