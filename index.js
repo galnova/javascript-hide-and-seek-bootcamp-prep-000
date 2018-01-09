@@ -1,4 +1,4 @@
-function getFirstSelector(ul) {
+function getFirstSelector(selector) {
   return document.querySelector('ul#ranked-list');
 }
 
