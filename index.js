@@ -1,5 +1,6 @@
 function getFirstSelector() {
-  const grab = document.getElementsByTagName('p')[0];
+  const grabP = document.getElementsByTagName('p')[0];
+  return grabP;
 }
 
 function nestedTarget() {
