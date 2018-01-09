@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-  const grabF = document.querySelector('selector');
+  const grabF = document.querySelector('p');
   return grabF;
 }
 
