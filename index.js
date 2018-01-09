@@ -1,5 +1,5 @@
-function getFirstSelector(selector) {
-  return document.querySelector('ul#ranked-list');
+function getFirstSelector(ul) {
+  return document.querySelector('ul');
 }
 
 function nestedTarget() {
