@@ -1,5 +1,5 @@
-function getFirstSelector(selector) {
-  return document.querySelector('#app ul.unanked-list');
+function getFirstSelector(main) {
+  return document.querySelector('#main#app');
 }
 
 function nestedTarget() {
