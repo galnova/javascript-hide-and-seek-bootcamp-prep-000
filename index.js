@@ -11,4 +11,9 @@ function nestedTarget() {
 
 function increaseRankBy(n) {
   const raise = document.getElementsByClassName('ranked-list');
+  // var a = parseInt("10") + n;
+}
+
+function deepestChild() {
+  const deepC = document.getElementById('grand-node')[0];
 }
