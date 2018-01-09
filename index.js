@@ -1,5 +1,5 @@
-function getFirstSelector(div) {
-  return document.querySelector('div#nested');
+function getFirstSelector(ul) {
+  return document.querySelector('ul#unranked-list');
 }
 
 function nestedTarget() {
